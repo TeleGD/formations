@@ -2,6 +2,8 @@
 
 Pour les jeux, voir [ici](https://github.com/TeleGD/games)
 
+Pour les gabarits, voir [ici](https://github.com/TeleGD/templates)
+
 ## Formation *Java* / *Slick2D*
 
 [tgd-formation-slick2d][tgd-formation-slick2d]
